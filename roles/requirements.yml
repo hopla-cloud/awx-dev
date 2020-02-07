@@ -1,0 +1,3 @@
+- src: https://github.com/hopla-cloud/ansible-role-linux-update
+  version: master
+  name: hoplacloud.linux_update
